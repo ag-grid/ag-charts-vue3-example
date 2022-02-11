@@ -9,8 +9,8 @@
   },
   "dependencies": {
     "@vue/babel-preset-app": "4.5.13",
-    "ag-charts-community": "~5.0.1",
-    "ag-charts-vue3": "~5.0.1",
+    "ag-charts-community": "~5.0.0",
+    "ag-charts-vue3": "~5.0.0",
     "vue": "3.2.2"
   },
   "devDependencies": {
