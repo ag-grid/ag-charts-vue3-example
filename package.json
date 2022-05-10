@@ -5,7 +5,8 @@
   "scripts": {
     "start": "npm run serve --watch",
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "build": "vue-cli-service build",
+    "build-prod": "npm run build"
   },
   "dependencies": {
     "@vue/babel-preset-app": "4.5.13",
