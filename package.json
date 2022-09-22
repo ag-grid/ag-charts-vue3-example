@@ -44,5 +44,11 @@
       "parser": "babel-eslint"
     },
     "rules": {}
+  },
+  "nx": {
+    "implicitDependencies": [
+      "ag-charts-vue3",
+      "ag-charts-community"
+    ]
   }
 }
