@@ -1,6 +1,6 @@
 {
   "name": "ag-charts-vue3-example",
-  "version": "6.1.1",
+  "version": "6.2.0",
   "private": true,
   "scripts": {
     "start": "npm run serve --watch",
@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "@vue/babel-preset-app": "4.5.13",
-    "ag-charts-community": "~6.1.0",
-    "ag-charts-vue3": "~6.1.0",
+    "ag-charts-community": "~6.2.0",
+    "ag-charts-vue3": "~6.2.0",
     "vue": "3.2.2"
   },
   "devDependencies": {
