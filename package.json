@@ -1,17 +1,17 @@
 {
   "name": "ag-charts-vue3-example",
-  "version": "7.2.0",
+  "version": "8.0.0",
   "private": true,
   "scripts": {
     "start": "npm run serve --watch",
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
+    "serve": "NODE_OPTIONS=--openssl-legacy-provider vue-cli-service serve",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider vue-cli-service build",
     "build-prod": "npm run build"
   },
   "dependencies": {
     "@vue/babel-preset-app": "4.5.13",
-    "ag-charts-community": "~7.2.0",
-    "ag-charts-vue3": "~7.2.0",
+    "ag-charts-community": "~8.0.0",
+    "ag-charts-vue3": "~8.0.0",
     "vue": "3.2.2"
   },
   "devDependencies": {
